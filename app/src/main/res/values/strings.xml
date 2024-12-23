@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Flickr</string>
+    <string name="label_title">Title: </string>
+    <string name="label_author">Author: </string>
+    <string name="label_description">Description: </string>
+    <string name="label_date">Date: </string>
+    <string name="label_search">Search</string>
+    <string name="error_template">Error: %s</string>
+</resources>
